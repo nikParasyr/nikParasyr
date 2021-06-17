@@ -1,1 +1,1 @@
-<img src="https://github.com/nikParasyr/nikParasyr/blob/master/img/have-a-seat.gif" alt="A cool gif" />
+<img src="https://github.com/nikParasyr/nikParasyr/blob/master/img/travolta.gif" alt="A cool gif" />
